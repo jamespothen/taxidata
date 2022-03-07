@@ -1,3 +1,5 @@
+<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+
 # What's the Deal with Yellow Cabs?
 I wanted to find out. So for my final project in a data journalism class, I dug through 170+ gigabytes of New York City's open data to find out.
 
